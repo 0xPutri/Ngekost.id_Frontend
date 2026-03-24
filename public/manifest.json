@@ -1,0 +1,17 @@
+{
+  "name": "Ngekost.id - Platform Marketplace Kost",
+  "short_name": "Ngekost.id",
+  "description": "Marketplace kost modern untuk mencari, memesan, dan mengelola kamar kost secara online dengan mudah dan cepat.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d9488",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

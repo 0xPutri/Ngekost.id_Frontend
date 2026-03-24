@@ -1,0 +1,42 @@
+# AI Agent Context (private instructions)
+ai_context/**
+
+# Dependencies
+node_modules/
+
+# Build Output
+dist/
+
+# Env Files
+.env
+.env.*
+
+# Logs
+yarn-error.log*
+logs
+npm-debug.log*
+*.log
+yarn-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor Files
+.vscode/
+.idea/
+
+# Cache Files
+.cache/
+*.tsbuildinfo
+
+# Vite Cache
+node_modules/.vite
+
+# Coverage Files
+coverage/
+
+# Optional Lock
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
